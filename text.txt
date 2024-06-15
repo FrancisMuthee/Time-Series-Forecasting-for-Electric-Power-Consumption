@@ -1,0 +1,5 @@
+On this assignment, I forked a time series repository. 
+I added a new branch called (feature-update)
+Here I included a text file
+Below is the link:
+https://github.com/FrancisMuthee/Time-Series-Forecasting-for-Electric-Power-Consumption.git
